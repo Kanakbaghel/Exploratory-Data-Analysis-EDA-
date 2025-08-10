@@ -14,6 +14,13 @@
 - Identify data patterns, correlations, and anomalies through graphical and quantitative methods.
 - Formulate and test hypotheses based on EDA findings to inform further analysis.
 ---
+# TO ASSIST DATASET 
+## 📊 Dataset
+
+This project uses a dataset hosted on Kaggle.  
+You can access it [here](https://www.kaggle.com/datasets/kanakbaghel/retail-transactions-dateset/data).
+
+---
 
 ## Introduction
 A nationwide retail chain is exploring customer behavior and seasonal trends to improve its strategic decision-making. You have been hired as a data analyst to help the company uncover actionable insights from a sample of past transaction records. The leadership team is particularly interested in patterns related to purchases, customer segments, promotional impact, and seasonal performance. 
