@@ -70,6 +70,20 @@ Conduct a comprehensive analysis of the retail dataset to address critical busin
 - Line chart of monthly revenue trends (grouped by year if applicable) 
 - Heatmap or stacked bar showing revenue by season and customer category 
 ---
+## Reflections of Performing Tasks
 
+---
+<img width="891" height="419" alt="image" src="https://github.com/user-attachments/assets/e74aa587-3ad7-436e-a2ec-9c5a8c51b5c5" />
+<p align="center"><strong>--- Retail Transactions Dataset ---</strong></p>
+
+---
+<img width="881" height="631" alt="image" src="https://github.com/user-attachments/assets/7e3366b3-eb07-485c-8a58-9e0c4edbe61a" />
+<p align="center"><strong>--- Plot average spending per season ---</strong></p>
+
+---
+<img width="871" height="732" alt="image" src="https://github.com/user-attachments/assets/44c893de-ece8-45f3-a688-0673e1e12f79" />
+<p align="center"><strong>--- Heatmap showing revenue by season and customer category ---</strong></p>
+
+---
 > _“Data becomes meaningful when it tells a story that leads to better decisions.”_  
 <p align="center"><em>Crafted with ♥ by <strong>Kanak Baghel</strong> | <a href="https://www.linkedin.com/in/kanakbaghel">LinkedIn</a></em></p>
